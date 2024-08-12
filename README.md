@@ -4,7 +4,7 @@ Haspburg llm is a built from scratch nano gpt modification which iteratively tra
 
 to give you a frame of reference this is what 5 generations of training does to haspburg-llm
 
-note: these models were trained for a 5-10 mins on an intel i7
+note: these models were trained for a 5-10 mins on an intel i7 1260p.
 to realise the full capability and breakdown of the llm i'd recommend running this on a single 8XA100 40GB node in about 4 days of training per generation
 (DONT DO IT, MASSIVE WASTE OF RESOURCES)
 this project was done for fun, not for practical implementation
